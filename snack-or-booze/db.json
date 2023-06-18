@@ -1,0 +1,108 @@
+{
+  "drinks": [
+    {
+      "id": "martini",
+      "name": "Martini",
+      "description": "An ice-cold, refreshing classic.",
+      "recipe": "Mix 3 parts vodka & 1 part dry vermouth.",
+      "serve": "Serve very cold, straight up."
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "description": "A nice drink for a late night conversation.",
+      "recipe": "Mix equal parts of gin, Campari, and sweet vermouth.",
+      "serve": "Serve cold, either on the rocks or straight up."
+    },
+    {
+      "id": "gin-and-tonic",
+      "name": "Gin and Tonic",
+      "description": "Like regular tonic, but with gin.",
+      "recipe": "Mix 2 parts gin & 1 part tonic water.",
+      "serve": "Serve in a tall glass over ice, garnished with a lime wedge."
+    },
+    {
+      "id": "diet-coke",
+      "name": "Diet Coke",
+      "description": "Crisp!",
+      "recipe": "Open can.",
+      "serve": "Immediately."
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "description": "water",
+      "recipe": "water",
+      "serve": "water"
+    },
+    {
+      "id": "vodka",
+      "name": "vodka",
+      "description": "classic vodka",
+      "recipe": "potatoes",
+      "serve": "in a glasss"
+    }
+  ],
+  "snacks": [
+    {
+      "id": "nachos",
+      "name": "Nachos",
+      "description": "An American classic!",
+      "recipe": "Cover expensive, organic tortilla chips with Cheez Whiz.",
+      "serve": "Serve in a hand-thrown ceramic bowl, garnished with canned black olives"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "description": "Sure to impress your vegan friends!",
+      "recipe": "Purchase one container of hummus.",
+      "serve": "Place unceremoniously on the table, along with pita bread."
+    },
+    {
+      "id": "arugula-and-walnut-salad",
+      "name": "Arugula and Walnut Salad",
+      "description": "Tart and delicious.",
+      "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
+      "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "name": "grape",
+      "description": "grape",
+      "recipe": "grape",
+      "serve": "grape",
+      "id": "grape"
+    },
+    {
+      "name": "grape Salad",
+      "description": "grape",
+      "recipe": "grape",
+      "serve": "grape",
+      "id": "grape-salad"
+    },
+    {
+      "id": "chilled-ice",
+      "name": "Chilled Ice",
+      "description": "Chilled Ice",
+      "recipe": "Chilled Ice",
+      "serve": "Chilled Ice"
+    },
+    {
+      "id": "canon-wiseman",
+      "name": "Canon Wiseman",
+      "description": "Canon Wiseman",
+      "recipe": "Canon Wiseman",
+      "serve": "Canon Wiseman"
+    },
+    {
+      "id": "popsicle",
+      "name": "popsicle",
+      "description": "popsicle is a sweet treat",
+      "recipe": "i wish i knew",
+      "serve": "take out of the wrapper"
+    }
+  ],
+  "menuDescriptions": {
+    "drinks": "Welcome to our unique menu of beverages! Our selection includes classic favorites, bold new flavor combinations, and an extensive range of craft cocktails. We offer a wide variety of beer, wine, and spirits, so there's sure to be something for everyone. Our wine list features both traditional and unique varietals from around the world. Our beer selection includes domestic and international craft and craft-style lagers and ales. And our cocktail list features tried-and-true favorites, as well as signature cocktails created with fresh, seasonal ingredients. For those looking to indulge in something special, we feature a selection of rare spirits, sourced from distilleries around the world. From delicate and floral gin to bold and fruity cognac, we have something to please any palate. We invite you to join us and experience our unique take on drinks. Cheers!",
+    "snacks": "We offer a wide selection of fresh, flavorful, satisfying lunch and dinner dishes. Our menu features a variety of light and healthy options including salads, sandwiches, and wraps. We also have an extensive selection of delectable entrees that showcase the flavors of Mediterranean, Latin American, and Asian cuisines. All of our dishes are lovingly prepared from scratch with only the freshest ingredients. We guarantee that you will find something to tantalize your taste buds."
+  }
+}

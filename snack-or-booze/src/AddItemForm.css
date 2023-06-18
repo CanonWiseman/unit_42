@@ -1,0 +1,23 @@
+h1{
+    color: black;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+form input{
+    width: 300px;
+    height: 50px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border-color: lightgrey;
+}
+
+
+button{
+    margin-top: 15px;
+    border-radius: 5px;
+    height: 50px;
+}
